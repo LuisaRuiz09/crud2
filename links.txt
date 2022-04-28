@@ -1,8 +1,8 @@
 --------------------------------
 
-Link amplifly : https://main.d32wdzi5i6ythx.amplifyapp.com/
+Link amplifly : https://main.dv8d8a0soch86.amplifyapp.com/
 
-Link netlify : https://enchanting-strudel-22eb2e.netlify.app/
+Link netlify : https://comforting-tarsier-a7a6fb.netlify.app/
 
 
 Nota : para mi no tenia sentido que las imagenes traidas de la api cambiaran cada que recargue la pagina,
