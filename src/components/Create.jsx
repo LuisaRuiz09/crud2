@@ -29,7 +29,7 @@ const Create = () => {
    const store = async (e) => {
     e.preventDefault()
 
-    //Validar inputs vacios
+    //Validando inputs vacios
     if (!nombre.trim()) {
         MySwal.fire({
             icon: 'warning',
