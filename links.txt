@@ -1,0 +1,14 @@
+--------------------------------
+
+Link amplifly : https://main.d32wdzi5i6ythx.amplifyapp.com/
+
+Link netlify : https://enchanting-strudel-22eb2e.netlify.app/
+
+
+Nota : para mi no tenia sentido que las imagenes traidas de la api cambiaran cada que recargue la pagina,
+para evitar esto creé una constante con un rango de valores aleatorios y luego se los concatené a la variable con el link
+de la api, de esta forma, cada que se crea un nuevo registro, se trae un imagen aleatoria que al recargar la pagina
+permanece igual. 
+
+
+-------------------------------
